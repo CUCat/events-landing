@@ -1,20 +1,21 @@
 
 # PERSONALIZATION
 # Site variables
-name: Events Landing Page
+name: Catalan Club University Colorado
+# og: assets/img/og.png
 logo: assets/img/logo.png
-original_repo: https://github.com/casassg/events-landing
-description: Find all of your organizations events in one place.
+# original_repo: https://github.com/hackcu/events
+description: CU Catalan Club aims to share Catalan culture, gastronomy, history and politics at the University of Colorado Boulder.
 # ga: UA-109088240-1
-domain: gerard.space/events-landing/
+domain: cucat.github.io/landing/
 
 
 # Style variables
-accent_color: "#22b573"
-events_overlay_color: "#2697FF"
+accent_color: "#FF5252"
+events_overlay_color: "#FBC02D"
 background_color: "#FAFAFA"
 footer_text_color: "#666666"
-events_bg_img: assets/img/people.jpg
+events_bg_img: assets/img/people.png
 
 # START THEME 2
 # accent_color: "#AA401B"
@@ -32,25 +33,22 @@ events_bg_img: assets/img/people.jpg
 # END THEME 4
 
 # START WINTER THEME
-accent_color: "#165E33" 
-events_overlay_color: "#AA504A"
+# accent_color: "#165E33" 
+# events_overlay_color: "#AA504A"
 # END WINTER THEME
 
 # Author variables
-author: Gerard Casas
-author-description: "This is a student organization at a certain university who brings together
-    people for our annual technology and design events, event1 and event2. We are the largest event around.
-    Our mission is to foster learning, designing, and building in order to turn student's ideas into a reality!"
-email: contact@gerard.space
+author: Catalan Club University Colorado
+author-description: "CU Catalan Club aims to share Catalan culture, gastronomy, history and politics at the University of Colorado Boulder. This club is a non-profit organization intended to serve as an exchange platform between American and Catalan cultures, and a means of encouraging Catalan students to socialize and share different viewpoints with American and other international students. This will be accomplished through several activities and cultural events throughout the year."
+email: catalanclub@colorado.edu
 
 # Social media + community variables
-twitter: casassaez
-# fb: hackcu
-fb-community: hackcu
-slack-signup: https://slack.hackcu.org
-
-instagram: casassg
-github-org: hackcu
+# twitter: hackcu
+fb: cucatalanClub
+# fb-community: cucatalanClub
+# slack-signup: https://slack.hackcu.org
+# instagram: hackcu
+# github: hackcu
 
 
 
