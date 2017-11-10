@@ -1,7 +1,13 @@
 
-# Events landing
+<br>
+<p align="center">
+  <img alt="CUCAT" src="assets/img/logo.png" width="200"/>
+</p>
+<br>
 
-Statically generated landing website that lists your events
+
+CUCatalanClub website, forked from [Events Landing](https://github.com/casassg/events-landing)
+
 
 # Features
 
@@ -74,4 +80,4 @@ Main colors can be changed on [_config.yml](_config.yml). For more "deep" stylin
 # License
 
 
-MIT © Gerard Casas Saez
+MIT © Catalan Club University Colorado
